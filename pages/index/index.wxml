@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+    <text class='title'>Hash Robot 小程序测试</text>
+    <text style="margin-top: 30px;color: #fff;">点击按钮 随机切换机器人</text>
+    <image class='myimg' src="{{url}}"></image>
+    <button bindtap="handleClick" class='mybtn'>切换机器人</button>
+</view>
