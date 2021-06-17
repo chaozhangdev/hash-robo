@@ -15,7 +15,7 @@
 }
 
 .mybtn {
-  padding: 5px 20px;
+  padding: 10px 20px;
   width: 50%;
   background-color: #C449C2;
   color: #fff;
